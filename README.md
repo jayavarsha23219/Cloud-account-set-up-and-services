@@ -43,16 +43,17 @@ Now use this admin account for everyday tasks (instead of root).
 
 # Services Overview in Azure:
 Azure provides 200+ cloud services. In this experiment, we focus on the following key categories:
-1.Compute Services
+### 1.Compute Services
 Azure Virtual Machines (VMs): On-demand Windows/Linux servers.
 Azure App Services: Hosting web applications without managing infrastructure.
 Azure Functions: Serverless compute that runs event-driven code.
 
-2.IoT Services
+### 2.IoT Services
 Azure IoT Hub: Central messaging hub for secure communication between IoT applications and devices.
 Azure IoT Central: Simplified IoT app platform for rapid deployment.
 Azure Digital Twins: Model real-world environments digitally.
-3.Security Services
+
+### 3.Security Services
 Microsoft Defender for Cloud: Protects cloud resources from threats.
 Key Vault: Securely stores and manages secrets, keys, and certificates.
 Sentinel: Cloud-native SIEM (Security Information and Event Management) solution.
