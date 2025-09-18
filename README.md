@@ -5,7 +5,7 @@
 ## REG NO: 212223040075
 
 # Aim :
-To create an cloud account in AWS and to explore all of its services.
+To create an cloud account in Azure and to explore all of its services.
 
 # Procedure :
 # Step 1: Go to the Azure Website
